@@ -9,8 +9,8 @@ def add_character(show, name)
   # Write your implementation here
   # Should return the array of the 'show' argument
   
-  cartoons[show].push(name)
+  BASE_HOA[show].push(name)
   
-  cartoons
+  BASE_HOA
   
 end
